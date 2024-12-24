@@ -70,4 +70,7 @@ sslc['column name'] - access a specific column
 
 .replace()
 
+pd.to_numeric() - convert to data type float
+
+
 
